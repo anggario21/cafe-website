@@ -16,7 +16,6 @@ Check out the live demo of the website: [Cafe Website Demo](https://anggario21.g
 
 - HTML
 - CSS
-- JavaScript
 
 ## Getting Started
 
