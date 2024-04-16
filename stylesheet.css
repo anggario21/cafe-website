@@ -367,6 +367,19 @@ footer {
   width: 186px;
 }
 
+.menu-card:hover {
+  transform: scale(1.1);
+  transition: all 1s ease;
+}
+
+.menu-card:hover .menu-card-image {
+  transform: translateY(-50px); /* Move the image up on hover */
+}
+
+.menu-card:hover .menu-card-content {
+  transform: translateY(125px); /* Move the image up on hover */
+}
+
 .find-us-page {
   display: flex;
   flex-direction: row;
